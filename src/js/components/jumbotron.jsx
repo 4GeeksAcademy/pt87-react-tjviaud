@@ -18,7 +18,7 @@ const Jumbotron = () => {
                 </div>
             </div>
 
-            {/* Nuevo diseño usando Grid */}
+            {}
             <div className="container text-center mt-4">
                 <div className="row">
                     <div className="col">
